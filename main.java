@@ -1,4 +1,4 @@
-/ //exercicio 1
+// //exercicio 1
 // import java.util.Scanner;
 
 // public class main {
@@ -267,3 +267,4 @@
 //         scanner.close();
 //     }
 // }
+
